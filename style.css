@@ -1,0 +1,44 @@
+
+.heading{
+    margin: 25px;
+}
+.under{
+    color:lightgray;
+margin: 25px;
+}
+
+.prag{
+    margin: 25px;
+    margin-top: -1%;
+font-weight: 600;
+margin-bottom: -7px;
+color: #000;
+}
+.prag2{
+    margin: 25px;
+    margin-top: 2%;
+font-weight: 400;
+color: #000;
+margin-bottom: -7px;
+}
+.prag3{
+    margin: 25px;
+    margin-top: 2%;
+    color: #000;
+font-weight: 700;
+font-size: x-large;
+margin-bottom: -7px;
+}
+.prag4{
+    margin: 25px;
+    margin-top: 2%;
+font-weight: 500;
+color: #000;
+margin-bottom: -7px;
+}
+img{
+    width: 110px;
+    border-radius:125px;
+
+    margin: 0px 25px;
+}
